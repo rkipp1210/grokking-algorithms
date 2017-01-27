@@ -1,4 +1,4 @@
-# quick sort faster
+# quick sort random element pivot
 
 from random import randint
 
